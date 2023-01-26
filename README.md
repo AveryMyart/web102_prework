@@ -28,7 +28,7 @@ Here's a walkthrough of implemented features:
 
 ## Notes
 
-I encountered some issues implementing the design of the app due to my familairity with specific syntax for functions and libraries
+I encountered some issues implementing the design of the app due to my familairity of the specific syntax for functions and libraries
 
 ## License
 
